@@ -5,13 +5,18 @@ I'm an astrophysics PhD student at the University of Manchester. I research high
 You can learn more about my research [here!](https://thomas-harvey.com/)
 
 
-## Current Projects
+## Current Personal Projects
 - [synference](https://synthesizer-project.github.io/synference/): A SBI framework for SED fitting using Synthesizer
 - [EXPANSE](https://github.com/tHarvey303/EXPANSE): A package for resolved SED fitting
 - [spikeout](https://github.com/tHarvey303/spikeout): Automatic detection and masking of diffraction spikes in images
 - [arachne](https://github.com/tHarvey303/arachne): Image-level resolved SED fitting using a jax-based differentiable emulator
 - [BD-Finder](https://github.com/tHarvey303/BD-Finder): SED fitting and properties of L, T and Y brown dwarfs from photometry
 - [fitstableview](https://github.com/tHarvey303/fitstableview): A VS Code extension for viewing tabular FITS files
+
+## Supported Projects
+- [Synthesizer](https://synthesizer-project.github.io/synthesizer/): Fast, self-consistent forward modelling of astronomical observables 
+- [GALFIND](https://github.com/duncanaustin98/galfind): End to end pipeline for data reduction, source detection, catalogue creation and SED fitting of survey data.
+
 
 ## Key Skills
 - Python
