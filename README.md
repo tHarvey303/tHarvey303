@@ -12,6 +12,8 @@ You can learn more about my research [here!](https://thomas-harvey.com/)
 - [arachne](https://github.com/tHarvey303/arachne): Image-level resolved SED fitting using a jax-based differentiable emulator
 - [BD-Finder](https://github.com/tHarvey303/BD-Finder): SED fitting and properties of L, T and Y brown dwarfs from photometry
 - [fitstableview](https://github.com/tHarvey303/fitstableview): A VS Code extension for viewing tabular FITS files
+- [classifier](https://github.com/tHarvey303/classifier): A Flask-based web app with fetching plots from a S3 bucket to classify images for surveys (or any problem!)
+- [skysim](https://github.com/tHarvey303/skysim): Sky simulator using an emulator to generate realistic mock imaging using jax
 
 ## Supported Projects
 - [Synthesizer](https://synthesizer-project.github.io/synthesizer/): Fast, self-consistent forward modelling of astronomical observables 
