@@ -1,6 +1,6 @@
 # Hi, I'm Tom Harvey!
 
-I'm an astrophysics PhD student at the University of Manchester. I research high-redshift galaxies using telescopes like JWST, HST and Euclid, and develop software to take advantage of these observations. My PhD research has focused on finding and charicterizing the stellar properties of galaxies and their statistical distributions at z > 6 with JWST. I'm generally interested in SED fitting, Bayesian techniques and machine learning approaches like simulation-based inference (SBI).
+I'm a postdoc at the Max Planck Institute for Astronomy (MPIA) in Heidelberg, Germany. I was previously a PhD student at the University of Manchester. I research distant galaxies using telescopes like JWST, HST and Euclid, and develop software to take advantage of these observations. My PhD research focused on finding and charicterizing the stellar properties of galaxies and their statistical distributions at z > 6 with JWST. I'm generally interested in SED fitting, Bayesian techniques and machine learning approaches like simulation-based inference (SBI).
 
 You can learn more about my research [here!](https://thomas-harvey.com/)
 
